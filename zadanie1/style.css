@@ -1,0 +1,40 @@
+li { list-style-type: square }
+.wstep {
+font-style:italic
+}
+
+td:first-child:hover {
+background-color:red
+}
+
+td:first-child {
+background-color:blue
+}
+
+td:last-child:hover {
+	background-color:white
+}
+
+td:last-child {
+	background-color:white
+}
+
+h1+h2{
+letter-spacing:5px
+}
+
+p+p{
+color:gray
+}
+
+[colspan="2"]:first-child {
+font-size:small
+}
+
+body {
+background-image: url(books.png);
+background-repeat: repeat-y
+}
+
+h1 { color: blue }
+h1 { color: green }
