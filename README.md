@@ -11,3 +11,7 @@ zadanie nauczyło mnie w jaki sposób tworzyć funkcje w języku javascript, ora
 zadanie4:
 
 zadanie nauczyło mnie posługiwać się różnymi selektorami w języku javascript, oraz obsługiwać zdarzenia za pomocą predefiniowanych funkcji. Pogłębiłem dzięki niemu swoją wiedzę na temat dynamicznego generowania oraz modyfikowania strony. Nuaczyłem się jak dodawać gotowe animacje, oraz tworzyć własne, jak przeszukiwać drzewo dokumentu dzięki metodom DOM, oraz jak tworzyć i wykorzystywać obiekty JSON.
+
+zadanie5:
+
+dzięki temu zadaniu poznałem składnie języka php i dowiedziałem się w jaki sposób wykorzystywać ów język do dynamicznego generowania strony, wysyłania i odbierania danych między stronami oraz tworzenia zmiennych cookie. Dowiedziałem się jak przy pomocy formularza wysyłać pliki na serwer. nauczyłem się do czego służą zmienne sesji i jak je wykorzystywać do weryfikacji logowania, oraz zapamiętywania zalogowanych użytkowników.
