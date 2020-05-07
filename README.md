@@ -15,3 +15,7 @@ zadanie nauczyło mnie posługiwać się różnymi selektorami w języku javascr
 zadanie5:
 
 dzięki temu zadaniu poznałem składnie języka php i dowiedziałem się w jaki sposób wykorzystywać ów język do dynamicznego generowania strony, wysyłania i odbierania danych między stronami oraz tworzenia zmiennych cookie. Dowiedziałem się jak przy pomocy formularza wysyłać pliki na serwer. nauczyłem się do czego służą zmienne sesji i jak je wykorzystywać do weryfikacji logowania, oraz zapamiętywania zalogowanych użytkowników.
+
+zadanie 6:
+
+zadanie nauczyło mnie jak przy pomocy języka php połączyć się z bazą danych i dokonywać w niej modyfikacji. Poznałem interfejs MySQLi i przykłady jego zastosowania w celu pobierania i modyfikowania zawartości tabel w bazie. Poznałem bardzo ważny wzorzec Post/Redirect/Get, zapobiega on wielu niechcianym interakcjom bazy z użytkownikiem.
