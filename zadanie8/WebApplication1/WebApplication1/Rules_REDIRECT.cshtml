@@ -1,0 +1,23 @@
+﻿@{ 
+    var rules = (List<string>)Session["Rules"];
+    if (rules == null)
+    {
+        rules = new List<string>();
+    }
+
+    if(IsPost)
+    {
+        rules.Add(Request.Form["new_rule"]);
+        Session["Rules"] = rules;
+        Response.Redirect("Rules_GET.cshtml");
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirect</title>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿@{ 
+    var rules = (List<string>)Session["Rules"];
+    if (rules == null)
+    {
+        rules = new List<string>();
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form action="Rules_POST.cshtml">
+        <table>
+            <tr><td>Dodaj nową zasadę</td><td><input type="submit"/></td></tr>
+        </table>
+    </form>
+    <ul>
+        @foreach (string rule in rules)
+        {
+            <li>@rule</li>
+        }
+    </ul>
+</body>
+</html>

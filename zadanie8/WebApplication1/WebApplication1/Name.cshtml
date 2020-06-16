@@ -1,0 +1,30 @@
+﻿@{ 
+    //var name = Request["name"];
+    var name = Request.QueryString["name"];
+    try
+    {
+        if (name.Equals(""))
+        {
+            name = "Robert Paulson";
+        }
+    }
+    catch(Exception exception)
+    {
+        name = "Robery Paulson";
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Name</title>
+</head>
+<body>
+    <ul>
+        @for (int i = 0; i < 10; i++)
+        {
+            <li>And his name is @name</li>
+        }
+    </ul>
+</body>
+</html>
