@@ -28,3 +28,6 @@ zadanie 8:
 
 wykonując zadanie nauczyłem się jak stworzyć prostą aplikację internetową w oparciu o technologię ASP.NET; Dowiedziałem się jak za pomocą języka c# dynamicznie tworzyć strony internetowe; Przypomniałem sobie wzorzec Post/Redirect/Get oraz jego zastosowanie w przesyłaniu formularzy.
 
+zadanie 9:
+
+zadanie nauczyło mnie jak stworzyć aplikację CRUD posługując się technologią ASP.NET; Poznałem sposób jak stworzyć taką aplikację bez konieczności ręcznego tworzenia bazy danych, tworząc zamiast tego klasę obiektu przechowywanego w bazie; dowiedziałem się jak tworzyć widoki, oraz kontrolery akcji.
