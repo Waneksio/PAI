@@ -19,3 +19,12 @@ dzięki temu zadaniu poznałem składnie języka php i dowiedziałem się w jaki
 zadanie 6:
 
 zadanie nauczyło mnie jak przy pomocy języka php połączyć się z bazą danych i dokonywać w niej modyfikacji. Poznałem interfejs MySQLi i przykłady jego zastosowania w celu pobierania i modyfikowania zawartości tabel w bazie. Poznałem bardzo ważny wzorzec Post/Redirect/Get, zapobiega on wielu niechcianym interakcjom bazy z użytkownikiem.
+
+zadanie 7:
+
+dzięki temu zadaniu zrozumiałem czym jest framework oraz jak z jego pomocą stworzyć aplikację internetową; Poznałem schemat postępowania w przypadku frameworku CakePHP; Dowiedziałem się jak przy jego pomocy wygenerować szkielet CRUD dla obiektów w bazie danych. 
+
+zadanie 8:
+
+wykonując zadanie nauczyłem się jak stworzyć prostą aplikację internetową w oparciu o technologię ASP.NET; Dowiedziałem się jak za pomocą języka c# dynamicznie tworzyć strony internetowe; Przypomniałem sobie wzorzec Post/Redirect/Get oraz jego zastosowanie w przesyłaniu formularzy.
+
